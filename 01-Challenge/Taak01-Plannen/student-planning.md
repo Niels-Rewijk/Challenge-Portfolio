@@ -13,9 +13,9 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | klaar  |
-| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | Bezig  |
-| ...         | Styling van elementen bepalen                  | 00:20 u             | Bezig  |
-| Realiseren  | Bestanden aanmaken                             | 01:00 u             | Bezig  |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | klaar  |
+| ...         | Styling van elementen bepalen                  | 00:20 u             | klaar  |
+| Realiseren  | Bestanden aanmaken                             | 01:00 u             | klaar  |
 | ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 00:40 u             | Bezig  |
 | ...         |                                                |                     |        |
