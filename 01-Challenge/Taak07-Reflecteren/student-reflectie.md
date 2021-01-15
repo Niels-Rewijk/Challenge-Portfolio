@@ -7,7 +7,7 @@
 
 ### Wat kon er beter?
 - op de spelling letten
-- ...
+- de uitlijning
 - ...
 
 ### Van wat er beter kon: hoe ga je dit de volgende anders doen?
